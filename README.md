@@ -3,9 +3,9 @@ Projeto Full Stack(MySQL. Node.js e JS)
 
 # Tecnologias utilizadas
 
-*NodeJS
-*Mysql/MariaDB (XAMPP)
-*Live Server
+NodeJS
+Mysql/MariaDB (XAMPP)
+Live Server
 
 # Como testar
 
